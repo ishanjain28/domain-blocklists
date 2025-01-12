@@ -1,3 +1,5 @@
 ||chrome.cloudflare-dns.com
 ||mozilla.cloudflare-dns.com
 ||use-application-dns.net
+||dns.google
+||cloudflare-dns.com
